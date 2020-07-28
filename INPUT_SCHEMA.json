@@ -10,9 +10,6 @@
             "type": "array",
             "description": "URLs to start with instead of search query",
             "editor": "requestListSources"
-        },
-        
-        
-    },
-    
+        },  
+    }    
 }
